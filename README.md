@@ -10,7 +10,7 @@ This project demonstrates the detection and blurring of license plates in car im
 - Blur detected license plates for privacy.
 
 ### How to Run
-1.Open the Detection.ipynb notebook in Jupyter Notebook or JupyterLab.
+1. Open the Detection.ipynb notebook in Jupyter Notebook.
 2. Execute the cells in order to:
    - Load and display a sample car image.
    - Detect the license plate in the image.
